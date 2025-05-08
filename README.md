@@ -5,6 +5,7 @@ This repository contains a collection of valuation models for various public com
 - BHP
 - BAT
 - IBKR
+- PM
 
 ## Other info
 - Metals & Mining market overview (currently included: Price for key commodity price data from 1990 onwards)
