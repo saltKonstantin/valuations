@@ -8,10 +8,12 @@ These models are for **educational purposes only**. No financial advice.
 
 ### Metals & Mining
 - BHP
+-
 
 ### Tabacco
 - BAT
 - PM
+-
 
 ### Capital Markets
 - IBKR
