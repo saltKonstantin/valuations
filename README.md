@@ -10,8 +10,8 @@ These models are for **educational purposes only**. No financial advice.
 - BHP
 
 ### Tabacco
-- BAT
-- PM
+- BAT ()
+- PM ()
 -
 
 ### Capital Markets
