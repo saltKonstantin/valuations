@@ -17,8 +17,9 @@ These models are for **educational purposes only**. No financial advice.
 - IBKR
 - COIN
 
-## Tech
+## Dating
 - BMBL
+- MTCH (not started)
 
 ## Battery
 - EOSE (not started)
