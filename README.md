@@ -8,7 +8,7 @@ These models are for **educational purposes only**. No financial advice.
 
 ### Metals & Mining
 - BHP
-- RIO
+- RIO (not started)
 - FCX
 
 ### Tabacco
