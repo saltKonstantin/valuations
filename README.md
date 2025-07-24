@@ -8,13 +8,15 @@ These models are for **educational purposes only**. No financial advice.
 
 ### Metals & Mining
 - BHP
+- RIO
+- FCX
 
 ### Tabacco
 - BAT
-- PM
+- PM (not started)
 
 ### Capital Markets
-- IBKR
+- IBKR (not started)
 - COIN
 
 ## Dating
